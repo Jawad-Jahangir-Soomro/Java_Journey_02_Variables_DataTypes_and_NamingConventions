@@ -44,6 +44,12 @@ It's important to understand the differences between these data types and when t
 
 It's also important to note that Java is a strongly typed language, which means that you must declare the data type of a variable before you can use it. Naming conventions also come into play when working with variables, and it's important to use descriptive names that make the purpose of the variable clear.
 
+
+![Data-types-in-Java](https://user-images.githubusercontent.com/123876118/218731608-c3c6aafb-e5d8-48bf-9d48-432c1167053c.jpg)
+
+![Primitive-Data-Types-in-Java-4](https://user-images.githubusercontent.com/123876118/218731632-5b454159-1da1-4b03-b1d5-cf55d6ab47a4.jpg)
+
+
 ## Get an understanding of naming conventions in Java.
 
 Naming conventions are a set of rules for naming variables, methods, classes, and packages in Java. Following these conventions makes it easier for others to understand and read your code.
