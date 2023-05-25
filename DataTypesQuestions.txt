@@ -1,0 +1,23 @@
+Q# 1:
+Write a program to declare a variable of each primitive data type in Java and assign them values.
+
+Q#2:
+Write java program to print default value of integer data type.
+
+Q#3:
+write a java program to store your name in string data type and print your name on console.
+
+Q#4:
+write a java program that calculates the area of square where area = (side)^2 and side = 5.
+
+Q#5:
+Write a java program declare a boolean data type assing it any value either true or false and print the value on screen.
+
+Q#6:
+write a program to declare two strings and concat them and also print the result.
+
+Q#7:
+write a java program to convert int value into double and print the value.
+
+Q#8:
+write a java program to convert double value into integer
